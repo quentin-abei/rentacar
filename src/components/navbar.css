@@ -1,0 +1,27 @@
+.main_nav {
+    display: flex;
+    color: #fff;
+    background: #0b0522;
+    min-height: 2.5em;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    outline: none;
+    text-decoration: none;
+    color: #fff;
+    
+}
+.nav_link {
+    color: #fff;
+    padding: 10px;
+    
+}
+.about {
+    color: #fff;
+    text-decoration: none;
+    padding:   0 10px ;
+    background: #148d34;
+    border-radius: 10px;
+}

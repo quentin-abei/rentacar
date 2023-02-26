@@ -1,0 +1,33 @@
+.main {
+    
+    display: flex;
+    max-width: 100%;
+    min-height: 50rem;
+    overflow: hidden;
+    align-items: center;
+    justify-content: center;
+    background: #05061a;
+    color: #fff;
+}
+.container {
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+.container img {
+   height: 350px;
+   margin-left: 350px;
+   border-radius: 15px;
+}
+.container_text {
+    
+    font-size: 35px;
+    padding: 10px;
+    
+}
+button {
+    border-radius: 15px;
+    padding: 15px;
+    color: #fff;
+    background: #09a50b;
+}
